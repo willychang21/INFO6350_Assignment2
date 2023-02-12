@@ -1,10 +1,3 @@
-//
-//  AppDelegate.swift
-//  INFO6350_Assignment2
-//
-//  Created by 張竣傑 on 2/11/23.
-//
-
 import UIKit
 
 @main
